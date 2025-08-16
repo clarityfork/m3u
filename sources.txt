@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/clarityfork/m3u/refs/heads/main/Sonyliv.m3u
 https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u
 https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u
+https://raw.githubusercontent.com/clarityfork/m3u/refs/heads/main/Jiotv.m3u
