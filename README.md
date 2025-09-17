@@ -1,2 +1,2 @@
 Actually I dont know coding...
-So I thouht to Turn on coding 
+So I thought to Turn on coding 
