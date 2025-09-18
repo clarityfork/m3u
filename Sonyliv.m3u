@@ -35,3 +35,5 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony WAH HD 
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF: -1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment", Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
