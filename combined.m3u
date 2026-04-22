@@ -69,7 +69,7 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 \n# Begin: https://la.drmlive.net/tp/playlist
-error code: 502\n# Begin: https://raw.githubusercontent.com/clarityfork/m3u/refs/heads/main/Sonyliv.m3u
+\n# Begin: https://raw.githubusercontent.com/clarityfork/m3u/refs/heads/main/Sonyliv.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Max HD 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
